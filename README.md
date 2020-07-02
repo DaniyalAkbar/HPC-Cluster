@@ -1,3 +1,5 @@
+STEP BY STEP INSTRUCTIONS: (open in a text editor)
+
 sudo su
 systemctl start docker
 docker swarm leave --force
